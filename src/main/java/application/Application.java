@@ -10,12 +10,8 @@ import com.google.common.collect.HashBiMap;
 public class Application {
 
   public static void main(String[] args) {
-    BiMap<Integer, String> empIDNameMap = HashBiMap.create();
-
-    empIDNameMap.put(101, "Mahesh");
-    empIDNameMap.put(102, "Sohan");
-    empIDNameMap.put(103, "Ramesh");
-
-    System.out.println(empIDNameMap.get(102));
+    Integer a = new Integer(123);
+    Integer b = new Integer(123);
+    System.out.println(a == b);
   }
 }
