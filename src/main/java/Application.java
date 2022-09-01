@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.BitSet;
 import java.util.HashMap;
 import java.util.List;
@@ -12,13 +13,7 @@ import java.util.Stack;
  */
 public class Application {
 
-  public static void main(String[] args) {
-    MinStack queue = new MinStack();
-    queue.push(1);
-    queue.push(2);
 
-    System.out.println(queue.pop());
-  }
 
   /**
    * 最小的 K 个数
