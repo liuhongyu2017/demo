@@ -18,10 +18,10 @@ public class 选择排序 {
         if (arr[j] < arr[minIndex]) {
           minIndex = j;
         }
-        temp = arr[minIndex];
-        arr[minIndex] = arr[i];
-        arr[i] = temp;
       }
+      temp = arr[minIndex];
+      arr[minIndex] = arr[i];
+      arr[i] = temp;
     }
     System.out.println(Arrays.toString(arr));
   }
