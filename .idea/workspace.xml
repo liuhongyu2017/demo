@@ -4,14 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c63e3cc4-648c-4fea-9232-ce0e3cd60e15" name="变更" comment="" />
+    <list default="true" id="c63e3cc4-648c-4fea-9232-ce0e3cd60e15" name="变更" comment="插入排序">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/齐齐哈尔/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/齐齐哈尔/MinioUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/齐齐哈尔/WordUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.setting" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.setting" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db.setting" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db.setting" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/齐齐哈尔/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/齐齐哈尔/MinioUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/齐齐哈尔/WordUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/demo-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="demo/invalid/JRebel" />
+    </ignored-facets>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -41,11 +89,16 @@
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/Users/liuhongyu/Documents/project/study/demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDK",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings",
+    "settings.editor.selected.configurable": "cn.yiiguxing.plugin.translate",
     "spring.configuration.checksum": "fe01ce2a7fbac8fafaed7c982a04e229",
     "vue.rearranger.settings.migration": "true"
   }
@@ -57,6 +110,79 @@
     <option name="myCommands">
       <command value="mvn clean package -U -Dnexus=*" />
     </option>
+  </component>
+  <component name="RunManager" selected="应用程序.Application">
+    <configuration name="选择排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.选择排序" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Application" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="插入排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.插入排序" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="冒泡排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.冒泡排序" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="冒泡排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.冒泡排序" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Application" />
+        <item itemvalue="应用程序.选择排序" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -71,14 +197,97 @@
       <updated>1651283348065</updated>
       <workItem from="1651283349169" duration="154000" />
       <workItem from="1652185009595" duration="15000" />
+      <workItem from="1652922364322" duration="826000" />
+      <workItem from="1654572403464" duration="668000" />
+      <workItem from="1655988652788" duration="1111000" />
+      <workItem from="1656172698885" duration="75000" />
+      <workItem from="1656172806794" duration="681000" />
+      <workItem from="1657463122627" duration="1530000" />
+      <workItem from="1661258647631" duration="2591000" />
+      <workItem from="1661397195599" duration="8933000" />
+      <workItem from="1661656609864" duration="488000" />
+      <workItem from="1661660833872" duration="922000" />
+      <workItem from="1661679697669" duration="7000" />
+      <workItem from="1661679710011" duration="28000" />
+      <workItem from="1661679750704" duration="1225000" />
+      <workItem from="1661870135255" duration="718000" />
+      <workItem from="1661933758993" duration="4000" />
+      <workItem from="1661933768627" duration="1000" />
+      <workItem from="1661933778132" duration="3000" />
+      <workItem from="1661933818136" duration="5953000" />
+      <workItem from="1662085823851" duration="5996000" />
+      <workItem from="1662705521872" duration="1168000" />
+      <workItem from="1662898642644" duration="3690000" />
+      <workItem from="1664336127515" duration="630000" />
+      <workItem from="1664336776985" duration="26000" />
+      <workItem from="1664336815042" duration="721000" />
+      <workItem from="1677378322144" duration="3171000" />
+      <workItem from="1677459143901" duration="1960000" />
     </task>
+    <task id="LOCAL-00001" summary="算法相关">
+      <created>1661933919649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661933919649</updated>
+    </task>
+    <task id="LOCAL-00002" summary="算法相关">
+      <created>1661997759218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661997759218</updated>
+    </task>
+    <task id="LOCAL-00003" summary="选择排序">
+      <created>1662081423028</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662081423028</updated>
+    </task>
+    <task id="LOCAL-00004" summary="插入排序">
+      <created>1662101707354</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662101707354</updated>
+    </task>
+    <task id="LOCAL-00005" summary="插入排序">
+      <created>1662102707088</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662102707088</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="算法相关" />
+    <MESSAGE value="选择排序" />
+    <MESSAGE value="插入排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="插入排序" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
