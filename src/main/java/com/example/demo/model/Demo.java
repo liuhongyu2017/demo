@@ -4,6 +4,7 @@ import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
+import org.hobbit.jackson.desensitize.annotation.IdCardDesensitize;
 
 /**
  * @author lhy
@@ -13,6 +14,7 @@ import com.baomidou.mybatisplus.annotation.TableName;
 public record Demo(
     @TableId(type = IdType.ASSIGN_ID)
     Long id,
+    @IdCardDesensitize
     @TableField("name")
     String name
 ) {
