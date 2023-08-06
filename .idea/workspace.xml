@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c63e3cc4-648c-4fea-9232-ce0e3cd60e15" name="变更" comment="插入排序">
-      <change afterPath="$PROJECT_DIR$/src/main/java/反射/TargetObject.java" afterDir="false" />
+    <list default="true" id="c63e3cc4-648c-4fea-9232-ce0e3cd60e15" name="变更" comment="demo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/db.setting" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/rebel-remote.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/敏感词过滤/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/敏感词过滤/MyWordDeny.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/锁/Application.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +70,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="项目" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -220,7 +212,7 @@
       <workItem from="1677546845246" duration="24000" />
       <workItem from="1677986194512" duration="5000" />
       <workItem from="1681881486451" duration="1572000" />
-      <workItem from="1691155259712" duration="82000" />
+      <workItem from="1691155259712" duration="918000" />
     </task>
     <task id="LOCAL-00001" summary="算法相关">
       <created>1661933919649</created>
@@ -264,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677462896058</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="demo">
+      <created>1691155527792</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691155527792</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,7 +284,8 @@
     <MESSAGE value="算法相关" />
     <MESSAGE value="选择排序" />
     <MESSAGE value="插入排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="插入排序" />
+    <MESSAGE value="demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
