@@ -10,7 +10,6 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class Application {
 
   public static void main(String[] args) {
-    @SuppressWarnings("resource")
     ApplicationContext applicationContext =
         new ClassPathXmlApplicationContext("classpath:spring.xml");
     User user = applicationContext.getBean(User.class);
